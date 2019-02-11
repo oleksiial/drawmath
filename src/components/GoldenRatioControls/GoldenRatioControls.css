@@ -1,8 +1,0 @@
-.controlsWrapper {
-  display: flex;
-  flex-direction: column;
-}
-
-.controlsWrapper > input {
-  width: 100%;
-}
